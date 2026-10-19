@@ -1,0 +1,4 @@
+# Create ship with stores that always fire, stock primary for 2, dont stock secondary
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
