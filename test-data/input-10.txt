@@ -1,0 +1,3 @@
+# Create a ship with stores that never fail, dont stock primary, store secondary with one, shoot all
+GT4500,0,0,1,0
+TORPEDO,ALL
