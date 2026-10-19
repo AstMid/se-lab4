@@ -1,0 +1,4 @@
+# Create a ship with stores that never fail, stock both with one, fire all twice
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL

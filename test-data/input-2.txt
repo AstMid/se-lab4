@@ -1,0 +1,4 @@
+# Create a ship with torpedo stores that never fail, have 1 torpedo in each
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
